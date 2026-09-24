@@ -1,63 +1,117 @@
 # Security Policy
 
+## Chintoo Kumar Portfolio
+
+Thank you for taking the time to help keep the **Chintoo Kumar Portfolio** project secure.
+
+This repository contains the source code and assets for my personal portfolio website. Although this is primarily a frontend portfolio project, security issues involving the website, source code, dependencies, forms, links, or accidentally exposed sensitive information are taken seriously.
+
+---
+
 ## Supported Versions
 
-This portfolio is a personal web project. Security fixes will generally
-be applied to the latest version of the project.
+Security fixes are generally considered for the latest version of the project available on the `main` branch.
 
 | Version | Supported |
 | ------- | --------- |
-| Latest  | ✅ Yes    |
-| Older versions | ❌ No |
+| Latest `main` | ✅ Yes |
+| Older commits | ⚠️ Limited |
+| Unmaintained versions | ❌ No |
 
-## Reporting a Security Issue
+Because this is a personal portfolio project, security support may vary depending on the severity and nature of the reported issue.
 
-If you discover a security vulnerability or security-related issue in this
-project, please report it privately instead of creating a public GitHub Issue.
+---
 
-Please contact:
+## Reporting a Security Vulnerability
 
-**Chintoo Kumar**  
+If you discover a security vulnerability in this project, please **do not publicly disclose the vulnerability through a GitHub Issue, pull request, social media post, or other public channel before it has been reviewed.**
+
+Instead, please report the issue privately using the contact information below.
+
+### Security Contact
+
 **Email:** chintookumar.dev@gmail.com
 
-### Please Include
+**GitHub:** [chintookumardev](https://github.com/chintookumardev)
 
-When reporting a security issue, please provide:
+When reporting a vulnerability, please include as much relevant information as possible.
 
-- A clear description of the vulnerability.
-- Steps to reproduce the issue.
-- The affected file, page, or feature.
-- Potential impact, if known.
-- Screenshots or proof of concept when appropriate.
+---
 
-Please do not include passwords, API keys, personal information, or other
-sensitive data in your report.
+## What to Include in a Report
 
-## Responsible Disclosure
+A useful security report should contain:
 
-Please allow reasonable time for the issue to be reviewed and addressed
-before publicly disclosing security details.
+1. **Short description**
+   - Explain what the vulnerability is.
 
-Security reports will be reviewed and handled responsibly.
+2. **Affected component**
+   - Identify the affected file, feature, dependency, or functionality.
 
-## Security Considerations
+3. **Steps to reproduce**
+   - Provide clear steps that allow the issue to be reproduced.
 
-This project is primarily a frontend portfolio website. It may contain:
+4. **Expected behavior**
+   - Explain what should normally happen.
 
-- HTML
-- CSS
-- JavaScript
-- Images and other static assets
+5. **Actual behavior**
+   - Explain what happens instead.
 
-Do not add secrets, credentials, API keys, private tokens, or other sensitive
-information to the repository.
+6. **Potential impact**
+   - Describe what an attacker or unauthorized user could potentially do.
 
-Before submitting a Pull Request, contributors should check that sensitive
-information has not accidentally been committed.
+7. **Proof of concept**
+   - If available, provide a minimal proof of concept.
 
-## Contact
+8. **Environment**
+   - Browser
+   - Operating system
+   - Device
+   - Relevant software or dependency versions
 
-For security-related concerns:
+9. **Screenshots or logs**
+   - Include supporting evidence when appropriate.
 
-**Chintoo Kumar**  
-**Email:** chintookumar.dev@gmail.com
+Please avoid including passwords, API keys, tokens, personal information, or other sensitive data in the report.
+
+---
+
+## Examples of Security Issues
+
+Security reports may include issues such as:
+
+- Cross-site scripting (XSS)
+- Injection vulnerabilities
+- Authentication or authorization issues
+- Sensitive information exposure
+- Accidentally committed credentials
+- Exposed API keys or tokens
+- Unsafe client-side functionality
+- Malicious or compromised dependencies
+- Insecure external resources
+- Vulnerable third-party libraries
+- Unsafe form handling
+- Security-related configuration errors
+- Unexpected data exposure
+- Broken security controls
+
+Not every bug is a security vulnerability. Normal UI bugs, visual issues, performance problems, or feature requests should generally be reported through the appropriate GitHub issue or contribution process.
+
+---
+
+## Sensitive Information
+
+Please do not intentionally commit sensitive information to this repository.
+
+Examples include:
+
+```text
+API keys
+Access tokens
+Passwords
+Private keys
+Database credentials
+Authentication secrets
+Session tokens
+Personal access credentials
+Environment secrets
