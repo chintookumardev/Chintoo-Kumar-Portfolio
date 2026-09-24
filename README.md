@@ -1,17 +1,44 @@
 # Chintoo Kumar — Portfolio
 
-A modern, responsive personal portfolio website showcasing my projects,
-technical skills, education, development experience, and certifications.
+> Personal portfolio website showcasing my projects, technical skills, education, development experience, certifications, and interests in software development.
 
-## 🌐 About
+<p align="center">
+  <img src="assets/hero.jpg" alt="Chintoo Kumar Portfolio" width="800">
+</p>
 
-I’m **Chintoo Kumar**, a BCA student and aspiring Full-Stack Developer
-interested in building responsive, database-driven web applications and
-practical software solutions.
+<p align="center">
+  <strong>Full-Stack Developer | BCA Student | Software Development Enthusiast</strong>
+</p>
 
-My current focus includes:
+<p align="center">
+  <a href="https://github.com/chintookumardev">
+    GitHub
+  </a>
+  •
+  <a href="https://www.linkedin.com/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+## 🌐 Live Portfolio
+
+**Portfolio:**  
+https://chintookumardev.github.io/Chintoo-Kumar-Portfolio/
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Chintoo Kumar**, a BCA student and aspiring **Full-Stack Developer** interested in building responsive, database-driven web applications and practical software solutions.
+
+I enjoy working across frontend and backend technologies and continuously improving my development skills through projects and hands-on learning.
+
+### Current Focus
 
 - Full-Stack Web Development
+- React.js
 - Node.js & Express.js
 - MongoDB & SQL
 - Java
@@ -19,138 +46,170 @@ My current focus includes:
 - REST APIs
 - Git & GitHub
 - Responsive Web Design
+- Software Development
+
+---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**
+### Bachelor of Computer Applications (BCA)
 
 **Inderprastha Engineering College**
 
 **Duration:** 2024 – 2027
 
-## 🚀 Projects
+---
 
-### NEXORA
+# 🚀 Projects
 
-A full-stack e-commerce web application focused on product browsing,
-search, filtering, cart functionality, and product-management workflows.
+## NEXORA
 
-**Technologies:**
+A full-stack e-commerce web application focused on product browsing, search, filtering, cart functionality, and product-management workflows.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `Tailwind CSS`
+### Technologies
 
-**Repository:**
-
-https://github.com/chintookumardev/NEXORA
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Tailwind CSS
 
 **Status:** Completed
 
+**Repository:**  
+https://github.com/chintookumardev/NEXORA
+
 ---
 
-### Lumina
+## Lumina
 
-A modern web application project focused on a responsive user experience
-and contemporary web-development technologies.
+A modern web application project focused on a responsive user experience and contemporary web-development technologies.
 
-**Technologies:**
+### Technologies
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Tailwind CSS
 
-**Repository:**
+**Status:** In Development
 
+**Repository:**  
 https://github.com/chintookumardev/Lumina
 
-**Status:** In Development
-
 ---
 
-### CampusConnect
+## CampusConnect
 
-A student career and opportunity platform designed to bring internships,
-jobs, hackathons, scholarships, and other opportunities together.
+A student career and opportunity platform designed to bring internships, jobs, hackathons, scholarships, and other opportunities together in one platform.
 
-**Technologies:**
+### Technologies
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
-
-**Status:** In Development
-
----
-
-### ClinicFlow
-
-A healthcare appointment and queue-management system designed around
-patients, doctors, and administrators.
-
-**Technologies:**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Tailwind CSS`
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Tailwind CSS
 
 **Status:** In Development
 
 ---
 
-### SmartSpend
+## ClinicFlow
 
-A responsive personal finance application for tracking income, expenses,
-budgets, financial goals, and recurring transactions.
+A healthcare appointment and queue-management system designed around patients, doctors, and administrators.
 
-**Technologies:**
+### Technologies
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- Tailwind CSS
 
 **Status:** In Development
 
 ---
 
-### Java Student Management System
+## SmartSpend
 
-A Java-based application for managing student records with CRUD
-operations, object-oriented programming, exception handling, and SQL
-database integration.
+A responsive personal finance application for tracking income, expenses, budgets, financial goals, and recurring transactions.
 
-**Technologies:**
+### Technologies
 
-`Java` `OOP` `MySQL` `SQL`
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Tailwind CSS
 
 **Status:** In Development
 
-## 🛠️ Technologies
+---
 
-### Programming
+## Java Student Management System
+
+A Java-based application for managing student records with CRUD operations, object-oriented programming, exception handling, and SQL database integration.
+
+### Technologies
+
+- Java
+- Object-Oriented Programming
+- MySQL
+- SQL
+
+**Status:** In Development
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
 
 - Java
 - JavaScript
 - Python
 
-### Frontend
+## Frontend Development
 
 - HTML5
 - CSS3
 - JavaScript
 - React.js
+- Tailwind CSS
+- Responsive Web Design
 
-### Backend
+## Backend Development
 
 - Node.js
 - Express.js
 - REST APIs
+- Socket.IO
 
-### Databases
+## Databases
 
 - MongoDB
-- SQL
 - MySQL
+- SQL
 
-### Tools
+## Tools & Platforms
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
+- Chrome DevTools
 
-## ✨ Portfolio Features
+---
 
-- Responsive design
+# ✨ Portfolio Features
+
+- Responsive portfolio design
 - Dark Mac-inspired interface
 - Liquid glass visual effects
 - Smooth scrolling
@@ -159,14 +218,36 @@ database integration.
 - Responsive project grid
 - Contact form
 - CV download
-- LinkedIn certification section
+- Social media links
+- Certification section
 - Mobile-friendly layout
 - Reduced-motion support
+- Image fallback handling
+- Dynamic financial-year display
 
-## 📁 Project Structure
+---
+
+# 🎨 Design
+
+The portfolio uses a modern dark interface inspired by macOS-style aesthetics.
+
+### Design Highlights
+
+- Dark color palette
+- Glassmorphism / liquid-glass effects
+- Subtle gradients
+- Soft shadows
+- Interactive hover effects
+- Responsive layouts
+- Smooth transitions
+- Minimal typography
+
+---
+
+# 📁 Project Structure
 
 ```text
-chintoo-kumar-portfolio/
+Chintoo-Kumar-Portfolio/
 │
 ├── index.html
 ├── styles.css
@@ -183,4 +264,8 @@ chintoo-kumar-portfolio/
 │   ├── smartspend.jpg
 │   └── java-student.jpg
 │
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── SECURITY.md
 └── README.md
