@@ -1,4 +1,7 @@
 <p align="center">
+  <meta name="author" content="Chintoo Kumar" />
+
+
   <img src="assets/Images/01.jpg" alt="Chintoo Kumar Portfolio" width="800" height="800">
   <img src="assets/Images/02.jpg" alt="Chintoo Kumar Portfolio" width="800" height="800">
   <img src="assets/Images/03.jpg" alt="Chintoo Kumar Portfolio" width="800" height="800">
