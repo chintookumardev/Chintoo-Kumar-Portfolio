@@ -5,7 +5,7 @@
 <p align="center">
   View Portfolio Images
   <path Chintoo-Kumar-Portfolio/Portfolio-Images.md>
-  <a href="Chintoo-Kumar-Portfolio/Portfolio-Images.md">View Portfolio Images</a>
+  <a href="Portfolio-Images.md">View Portfolio Images</a>
 </p>
 
 <p align="center">
